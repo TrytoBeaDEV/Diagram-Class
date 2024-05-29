@@ -2,6 +2,9 @@ package DiagramClass;
 
 import java.util.Collection;
 
+
+
+
 public class Aluno {
 
 	private String nome;
@@ -23,5 +26,8 @@ public class Aluno {
 	public boolean valida_data.nasc() {
 		return false;
 	}
+
+//getter and setters
+
 
 }
